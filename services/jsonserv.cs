@@ -30,7 +30,7 @@ namespace AnimeshkaBot.services
         {
             config config = new()
             {
-                Token = "OTI0NzcxNTI0NzA2MTg1Mjk2.YcjamA.f8NtchQmkYIhrDvoB_k4DE6O5R4",
+                Token = "There is token",
                 Prefix = "!",
                 GameStatus = "Genshin Impact"
             };
